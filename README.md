@@ -6,3 +6,5 @@ By giving the input and running this python script, a excel file namely 'user_tw
 
 This excel file will have following entities :-
 Tweet Id', 'Tweet Timestamp', 'Tweet Text', 'Retweet Count'and 'Like Count'. 
+
+An example output file is also shown under "Result" folder
