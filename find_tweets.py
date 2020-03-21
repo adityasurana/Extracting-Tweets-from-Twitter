@@ -78,8 +78,7 @@ get_all_tweets(screen_name)
         
 df = pd.DataFrame(list(zip(tweet_id, tweet_time, tweet_text, retweet_count, like_count)),
                   columns = ['Tweet Id', 'Tweet Time', 'Tweet Text', 'Retweet Count', 'Like Count'])
-outputfile_path = "%s\\user_tweets.xlsx" %dir_path
-df.to_excel(outputfile_path, index=False)
+df.to_excel("user_tweets.xlsx", index=False)
 
 
     
