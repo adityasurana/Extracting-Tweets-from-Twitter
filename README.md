@@ -8,3 +8,5 @@ This excel file will have following entities :-
 Tweet Id', 'Tweet Timestamp', 'Tweet Text', 'Retweet Count'and 'Like Count'. 
 
 An example output file is also shown under "Result" folder
+
+![user_tweets](https://user-images.githubusercontent.com/39646018/77437286-7b903c80-6e0a-11ea-96a8-b1b64f9863b8.PNG)
