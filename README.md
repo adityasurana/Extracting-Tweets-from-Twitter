@@ -9,4 +9,4 @@ Tweet Id', 'Tweet Timestamp', 'Tweet Text', 'Retweet Count'and 'Like Count'.
 
 An example output file is also shown under "Result" folder
 
-![user_tweets](https://user-images.githubusercontent.com/39646018/77437286-7b903c80-6e0a-11ea-96a8-b1b64f9863b8.PNG)
+![user_tweets](https://user-images.githubusercontent.com/39646018/77438043-5cde7580-6e0b-11ea-85b0-3229169ccae7.PNG)
